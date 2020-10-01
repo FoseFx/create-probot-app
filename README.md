@@ -11,6 +11,12 @@ In particular, this command line interface allows you to select from our pre-def
 npx create-probot-app my-first-app
 ```
 
+With npm 6 or higher you can also use:
+
+```sh
+npm init probot-app my-first-app
+```
+
 If you're using Yarn:
 
 ```sh
